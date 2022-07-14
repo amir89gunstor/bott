@@ -5,4 +5,4 @@ urllib3
 mutagen
 gtts
 pillow
-runika
+rubika
