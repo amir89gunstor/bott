@@ -12,7 +12,7 @@ from mutagen.mp3 import MP3
 from requests import get
 from PIL import Image , ImageFont, ImageDraw
 
-bot = Bot("knihtzafthjovnqugazevoecixnwqqnu")
+bot = Bot("gqlocjpxxxkygxcqbmgvdokbkydtfadz")
 target = "g0BkdiW06f93fc0f9ef5de10eab8f725"
 
 
