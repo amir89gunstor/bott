@@ -13,7 +13,7 @@ from requests import get
 from PIL import Image , ImageFont, ImageDraw
 
 bot = Bot("knihtzafthjovnqugazevoecixnwqqnu")
-target = "g0Be5VF07c80ba9dc22b2e195e235456"
+target = "g0BkdiW06f93fc0f9ef5de10eab8f725"
 
 
 # Coded By : github.com/HiByeDev ~ rubika -> @Develover
